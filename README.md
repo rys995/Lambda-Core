@@ -3,7 +3,7 @@ a fan-made, non-commercial crossover project built around environmental storytel
 
 Lambda Core is a fan-made Touhou Project × Half-Life crossover archive built around a simple but dangerous narrative question:
 
-||“What if the bad ending of Half-Life was not the end of Gordon Freeman… but instead, G-Man discarded him into Gensokyo?”||
+_**“What if the bad ending of Half-Life was not the end of Gordon Freeman… but instead, G-Man discarded him into Gensokyo?”**_
 
 Rather than focusing on pure power scaling or “who is stronger”, Lambda Core mainly revolves around the catalytic effect of Freeman himself — especially how his existence, survival instinct, fragmented experiences, and messianic reputation slowly affect the emotional and social ecosystem of Gensokyo itself.
 
