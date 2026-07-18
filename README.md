@@ -14,6 +14,8 @@ This repository contains the current raw script archive (~266k words and still g
 
 ---
 
+![Preview](https://github.com/rys995/Lambda-Core/blob/main/lcore_label.png)
+
 # Current Development Status
 
 Lambda Core is currently under active development as a **Source Engine** fan project using **Mapbase (Source SDK 2013)** as its technical foundation.
