@@ -2,6 +2,8 @@
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white)](https://discord.gg/Czz8usggdE)
 
+[![ModDB](https://img.shields.io/badge/ModDB-Lambda_Core-orange)](https://www.moddb.com/mods/lambda-core) 
+
 # Lambda Core
 
 *A fan-made, non-commercial crossover project built around environmental storytelling, atmospheric pacing, and experimental narrative structure.*
