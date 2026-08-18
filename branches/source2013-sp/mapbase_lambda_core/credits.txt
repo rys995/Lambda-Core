@@ -1,0 +1,47 @@
+1. Model Information:
+* title:	bamboo
+* source:	https://sketchfab.com/3d-models/bamboo-a02bf0e3ffe44617ad49daf3cd94fe59
+* author:	evolveduk (https://sketchfab.com/evolveduk)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "bamboo" (https://sketchfab.com/3d-models/bamboo-a02bf0e3ffe44617ad49daf3cd94fe59) by evolveduk (https://sketchfab.com/evolveduk) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+2. Model Information:
+* title:	Bamboo
+* source:	https://sketchfab.com/3d-models/bamboo-b2e6f889630e4ab593376a151836a3e1
+* author:	arthur (https://sketchfab.com/Arthur_mf)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bamboo" (https://sketchfab.com/3d-models/bamboo-b2e6f889630e4ab593376a151836a3e1) by arthur (https://sketchfab.com/Arthur_mf) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+3. Model Information:
+* title:	sakura
+* source:	https://sketchfab.com/3d-models/sakura-c562e993e5ba411f8edd4b65ef0069d0
+* author:	dimal965 (https://sketchfab.com/dimal965)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "sakura" (https://sketchfab.com/3d-models/sakura-c562e993e5ba411f8edd4b65ef0069d0) by dimal965 (https://sketchfab.com/dimal965) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+4. Model Information:
+* title:	Sakura Tree 01 - Low Poly Model
+* source:	https://sketchfab.com/3d-models/sakura-tree-01-low-poly-model-147ae7d0d332456a99ec6195e9b0cd4f
+* author:	Jogoss (https://sketchfab.com/thejogoss9)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sakura Tree 01 - Low Poly Model" (https://sketchfab.com/3d-models/sakura-tree-01-low-poly-model-147ae7d0d332456a99ec6195e9b0cd4f) by Jogoss (https://sketchfab.com/thejogoss9) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
