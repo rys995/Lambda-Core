@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "sakuras\sakura_dimai\sakura_branch_new01_1Mat_baseColor"
+	$alphatest 1
+}

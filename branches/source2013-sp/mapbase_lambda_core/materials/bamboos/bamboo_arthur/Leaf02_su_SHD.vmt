@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "bamboos\bamboo_arthur\Leaf02_su_SHD_baseColor"
+	"$bumpmap" "bamboos\bamboo_arthur\Leaf02_su_SHD_normal"
+	$nocull 1
+	$alphatest 1
+}
