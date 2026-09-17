@@ -4,9 +4,14 @@
 
 [![ModDB](https://img.shields.io/badge/ModDB-Lambda_Core-orange)](https://www.moddb.com/mods/lambda-core) 
 
+
 # Lambda Core
 
 *A fan-made, non-commercial crossover project built around environmental storytelling, atmospheric pacing, and experimental narrative structure.*
+
+You can watch the initial trailer here:
+
+[Lambda Core Trailer](https://youtu.be/KswzkoUFYhs)
 
 Lambda Core is a fan-made **Touhou Project × Half-Life** crossover archive built around a simple but dangerous narrative question:
 
